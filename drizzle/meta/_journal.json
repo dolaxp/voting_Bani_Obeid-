@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763650043492,
+      "tag": "0000_white_lady_mastermind",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763650075497,
+      "tag": "0001_green_purifiers",
+      "breakpoints": true
+    }
+  ]
+}
